@@ -2,8 +2,10 @@
 
 ---Kurulum---
 
-git clone ***
+git clone https://github.com/onurkemerli/sms_sent.git
+---
 pip3 install twilio
+---
 python3 call_sms.py
 
 ---Kayıt---
