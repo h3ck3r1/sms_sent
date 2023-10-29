@@ -17,7 +17,7 @@
 </html>
                                         
 
-***Bu python kodu hedef kişiye random bir mesağı 1 sn'den kısa bir şekilde gönderme özelliğine sahip bu kodun daha fazla gelişmiş halini örneğin spesifik mesaj şeklinde yapabilirsiniz
+***Bu python kodu hedef kişiye random bir mesağı 1 sn'den kısa bir sürede gönderme özelliğine sahip bu kodun daha fazla gelişmiş halini örneğin spesifik mesaj şeklinde yapabilirsiniz
 
 # sms_sent
 
