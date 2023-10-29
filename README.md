@@ -1,6 +1,4 @@
-# sms_senthttps://github.com/onurkemerli/sms_sent/blob/main/README.md
-
----Kurulum---
+# sms_sent
 
 git clone https://github.com/onurkemerli/sms_sent.git
 
