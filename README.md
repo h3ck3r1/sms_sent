@@ -1,9 +1,9 @@
 
 
-                           <!DOCTYPE html>
+                          
 <html>
 <head>
-    <title>ASCII Sanatı</title>
+    
 </head>
 <body>
     <pre>
