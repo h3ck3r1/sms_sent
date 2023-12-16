@@ -17,17 +17,8 @@
 </html>
                                         
 
-***Bu python kodu hedef kişiye random bir mesağı 1 sn'den kısa bir sürede gönderme özelliğine sahip bu kodun daha fazla gelişmiş halini, örneğin spesifik mesaj gönderen şeklinde yapabilirsiniz !!!
+***Bu python kodu hedef kişiye 11 adet mesajı 5 saniye aralıklarla atan bir sms bomber'dır ve geliştirme aşamasındadır !!!
+*Mesajların tümü atılana kadar bekleyiniz
+*İlk 20 mesaj sorunsuz gönderilir fakat sonrakiler garanti edilmez
+*Geliştirilme aşamasındadır farklı özellikler gelecektir
 
-# sms_sent
-
-git clone https://github.com/onurkemerli/sms_sent.git
-
-pip3 install twilio
-
-python3 call_sms.py
-
----Kayıt---
-
-https://console.twilio.com/
-gerekli 3 veriyi kod bloğuna yazdıktan sonra başarılı bir şekilde çalıştırabilirsiniz
