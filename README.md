@@ -17,8 +17,14 @@
 </html>
                                         
 
-***Bu python kodu hedef kişiye 11 adet mesajı 5 saniye aralıklarla atan bir sms bomber'dır ve geliştirme aşamasındadır !!!
-*Mesajların tümü atılana kadar bekleyiniz
-*İlk 20 mesaj sorunsuz gönderilir fakat sonrakiler garanti edilmez
-*Geliştirilme aşamasındadır farklı özellikler gelecektir
+<body>
+
+<h1>SMS Bomber</h1>
+
+<p>***Bu python kodu hedef kişiye 11 adet mesajı 5 saniye aralıklarla atan bir sms bomber'dır ve geliştirme aşamasındadır !!!</p>
+<p>Mesajların tümü atılana kadar bekleyiniz</p>
+<p>İlk 20 mesaj sorunsuz gönderilir fakat sonrakiler garanti edilmez</p>
+<p>Geliştirilme aşamasındadır farklı özellikler gelecektir</p>
+
+</body
 
