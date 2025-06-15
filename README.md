@@ -4,13 +4,14 @@
 <html>
 
 
-  
-        __  __ _____      _    _          _____ ____  ______ _____ _____ 
-       |  \/  |  __ \    | |  | |   /\   / ____/ __ \|  ____|_   _/ ____|
-       | \  / | |__) |   | |__| |  /  \ | |   | |  | | |__    | || |     
-       | |\/| |  _  /    |  __  | / /\ \| |   | |  | |  __|   | || |     
-       | |  | | | \ \ _  | |  | |/ ____ \ |___| |__| | |     _| || |____ 
-       |_|  |_|_|  \_(_) |_|  |_/_/    \_\_____\____/|_|    |_____\_____|
+        
+      V     V                 V     V       d        V     V            
+      V     V          ii     V     V ii    d ii     V     V ii      ii 
+       V   V  eee nnn          V   V      ddd         V   V      ccc    
+        V V   e e n  n ii       V V   ii d  d ii       V V   ii c    ii 
+         V    ee  n  n ii        V    ii  ddd ii        V    ii  ccc ii 
+                                                                  
+                                                                  
                                                                           
                                                                           
     
@@ -21,10 +22,10 @@
 
 <h1>SMS Bomber</h1>
 
-<p>***Bu python kodu hedef kişiye 11 adet mesajı 5 saniye aralıklarla atan bir sms bomber'dır ve geliştirme aşamasındadır !!!</p>
-<p>Mesajların tümü atılana kadar bekleyiniz</p>
-<p>İlk 20 mesaj sorunsuz gönderilir fakat sonrakiler garanti edilmez</p>
-<p>Geliştirilme aşamasındadır farklı özellikler gelecektir</p>
+<p>***This Python code is an SMS bomber that sends 11 messages to a target person at 5-second intervals and is under development!!!</p>
+<p>Please wait until all messages have been sent.</p>
+<p>The first 20 messages are sent without issues, but messages sent afterward are not guaranteed.</p>
+<p>It is currently under development and more features will be added.</p>
 
 </body
 
