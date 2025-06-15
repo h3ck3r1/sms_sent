@@ -25,7 +25,7 @@
 <p>***This Python code is an SMS bomber that sends 11 messages to a target person at 5-second intervals and is under development!!!</p>
 <p>Please wait until all messages have been sent.</p>
 <p>The first 20 messages are sent without issues, but messages sent afterward are not guaranteed.</p>
-<p>It is currently under development and more features will be added.</p>
+<p>It is currently under development and more features will be added.Nice!</p>
 
 </body
 
